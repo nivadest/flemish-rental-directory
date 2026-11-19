@@ -27,3 +27,13 @@ No horizontal document overflow at 390 or 320 (document scroll widths 375 and 30
 
 ## Replay / limits
 Use the browser-automation skill, open the public URL, then pass the complete contents of tests/ui-browser.js as browser act/evaluate fn. It is an async arrow function, not a standalone Node runner. node --check tests/ui-browser.js passed. Test coverage reflects this deployed dataset; no unrated rows exist to empirically test unrated-last sorting with populated unrated data. Screenshots and native interaction evidence supplement the DOM-event assertions. No forms submitted, no third-party sites modified, no phone calls made.
+
+## Fix verification — commit 7e30d93
+Verified 2026-11-19 at approximately 09:22 Europe/Brussels on the public GitHub Pages deployment only. Both previously reported presentation defects are resolved.
+
+- Readiness: deployed style.css contains `@media(max-width:380px)`; the reloaded page CSSOM also includes the matching media rule. Used a fresh public navigation with `?qa=7e30d93` after deployment readiness.
+- At 320×844, province and machine-type selects now stack vertically, each 235px wide. “Alle provincies” and “Alle machines” are fully readable. All option labels fit measured available text width (longest province approximately 105px; machine type 94px). Document width is 305px, with no horizontal overflow.
+- Captured and visually inspected `evidence/ui/fixed-320.png`: stacked filters and complete default labels confirmed.
+- Explicit relative icon link resolves to `/flemish-rental-directory/favicon.svg`, HTTP 200, `image/svg+xml`. Fresh navigation produced zero console errors (including no missing favicon error) and zero page exceptions.
+- Re-ran the complete existing `tests/ui-browser.js` against actual deployed DOM/event handlers: **65 passed, 0 failed**. Full result saved in `evidence/ui/fixed-assertions.json`.
+- No application files changed during verification.
