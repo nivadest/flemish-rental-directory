@@ -1,0 +1,20 @@
+async () => {
+const rows=await(await fetch('data.json')).json(), results=[];
+const $=id=>document.getElementById(id), ids=()=>[...document.querySelectorAll('#cards .card')].map(c=>c.dataset.id);
+const check=(name,pass,details)=>results.push({name,pass,details});
+const set=(id,value)=>{$(id).value=value;$(id).dispatchEvent(new Event(id==='search'?'input':'change',{bubbles:true}));};
+const reset=()=> $('reset').click();
+const verify=(name,expected)=>{const actual=ids();check(name,actual.length===expected.length&&expected.every(r=>actual.includes(r.id)),{count:actual.length,expected:expected.length});check(name+' counter',$('result-count').textContent===actual.length+' van '+rows.length+' bedrijven');};
+check('60 unique rendered companies',ids().length===60&&new Set(ids()).size===60);
+for(const key of ['province','type','rating'])for(const option of [...$(key).options]){reset();set(key,option.value);const v=option.value;verify(key+': '+(v||'all'),rows.filter(r=>!v||(key==='province'?r.locations.some(l=>l.province===v):key==='type'?r.types.includes(v):v==='unrated'?r.rating===null:r.rating===+v)));}
+const norm=s=>s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+for(const q of ['Boels','  bOeLs  ','Hasselt','é','Kranen','zz-no-company-qa-942']){reset();set('search',q);verify('search: '+q,rows.filter(r=>norm([r.name,...r.locations.map(l=>l.city+' '+l.province),...r.types].join(' ')).includes(norm(q.trim()))));}
+check('empty state visible',!$('empty').hidden&&ids().length===0);$('empty-reset').click();check('empty reset restores all',ids().length===60&&$('empty').hidden);
+for(const sort of ['rating','rating-desc','name']){reset();set('sort',sort);const actual=ids().map(id=>rows.find(r=>r.id===id));check('sort: '+sort,actual.every((r,i)=>!i||(sort==='name'?actual[i-1].name.localeCompare(r.name,'nl')<=0:r.rating===null||(actual[i-1].rating!==null&&(sort==='rating'?actual[i-1].rating<=r.rating:actual[i-1].rating>=r.rating)))));}
+reset();set('province','Limburg');set('type','Kranen');set('rating','2');set('search','Hasselt');set('sort','name');verify('combined filters',rows.filter(r=>r.locations.some(l=>l.province==='Limburg')&&r.types.includes('Kranen')&&r.rating===2&&norm([r.name,...r.locations.map(l=>l.city+' '+l.province),...r.types].join(' ')).includes('hasselt')));reset();check('reset all controls',['search','province','type','rating'].every(k=>$(k).value==='')&&$('sort').value==='rating'&&ids().length===60);
+const invalid=[];for(const card of document.querySelectorAll('#cards .card')){const r=rows.find(r=>r.id===card.dataset.id),website=card.querySelector('.website');if(website.getAttribute('href')!==r.website||website.target!=='_blank'||!website.rel.includes('noopener'))invalid.push(r.id+' website');const phone=card.querySelector('.card-actions a[href^="tel:"]');if(phone.getAttribute('href')!=='tel:'+r.phone.replace(/\(0\)/g,'').replace(/[^+0-9]/g,''))invalid.push(r.id+' phone');for(const a of card.querySelectorAll('details ul a'))if(!r.sources.some(s=>s.url===a.getAttribute('href')))invalid.push(r.id+' source');}
+check('company website phone source href integrity',invalid.length===0,invalid);
+const badLinks=[...document.querySelectorAll('a')].filter(a=>{const h=a.getAttribute('href');return !h||h.startsWith('javascript:')||(h.startsWith('#')&&!document.getElementById(h.slice(1)));}).map(a=>a.outerHTML);check('no empty unsafe or broken fragment hrefs',badLinks.length===0,badLinks);
+const details=document.querySelector('#cards details');details.querySelector('summary').click();check('details opens',details.open);details.querySelector('summary').click();check('details closes',!details.open);
+return {url:location.href,time:new Date().toISOString(),results,passed:results.filter(r=>r.pass).length,failed:results.filter(r=>!r.pass).length};
+}

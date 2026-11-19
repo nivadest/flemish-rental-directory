@@ -74,3 +74,7 @@ Opened desktop-clear/mobile-top images: responsive layout, search, categories an
 This was a bounded evidence audit, not a new full directory search, independent registry/address verification, availability test, full accessibility audit or live retest. Screenshots can support visual usability judgments but cannot prove successful transactions. Ratings are subjective moment-in-time assessments; existing public methodology appropriately discloses this and the incomplete national-chain coverage. Keep those disclaimers.
 
 Publish after correcting/qualifying branch phone mappings and registered-office presentation. Preserve missing primary-source contact snapshots when available. No blanket rerating or complete research redo is indicated by this audit.
+
+## Implementation follow-up
+
+Contact labels now explicitly say published company contact for a province, not a direct branch number. LVC and Jo locations retain registered-office/appointment roles in data and expanded UI. Historic null-score coverage statements carry a prominent superseded-status note. Missing cited chain pages were re-fetched successfully (HTTP 200) into evidence/chain-contact-0..3.json; extraction may still omit dynamically rendered sections.
