@@ -1,0 +1,495 @@
+[
+  {
+    "id": "walca-rent",
+    "name": "Walca-rent",
+    "website": "https://www.walca-rent.be/",
+    "phone": "050 20 87 02",
+    "locations": [
+      {
+        "city": "Zedelgem",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Productspecificaties en dag-/weekprijzen zijn concreet. De vaste brede lay-out snijdt op mobiel tekst en menu af; contactformulier en telefoon zijn aanwezig, maar openingsuren verschillen tussen home en contact.",
+    "sources": [
+      {
+        "url": "https://www.walca-rent.be/home/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 2,
+      "mobile": 1,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Officiële homepage: Groenestraat 151, 8210 Zedelgem; telefoon 050/20 87 02; verhuur minigravers en Knikmops K130/K250 met dag- en weekprijzen. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/walca-rent-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "vandaele-rental",
+    "name": "Vandaele Rental",
+    "website": "https://www.vandaele-machinery.be/",
+    "phone": "+32 56 67 40 00",
+    "locations": [
+      {
+        "city": "Oostrozebeke",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Heldere huur-/koopnavigatie, machinefilters en afmetingen per model. Mobiel leesbaar met grote knoppen; uitgebreide contactkeuze, maar veel introductietekst vóór het aanbod.",
+    "sources": [
+      {
+        "url": "https://www.vandaele-machinery.be/nl/machines-huren",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.vandaele-machinery.be/nl/contact",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Verhuurpagina noemt graafmachines, verreikers en wielladers; verhuurnavigatie noemt spinhoogwerkers en schaarliften. Contact: Vandaele Rental, Ingelmunstersteenweg 190, 8780 Oostrozebeke, +32 56 67 40 00. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/vandaele-rental-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "duma-rent",
+    "name": "Duma Rent",
+    "website": "https://www.dumarent.be/",
+    "phone": "056 222 111",
+    "locations": [
+      {
+        "city": "Marke (Kortrijk)",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Kranen",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke gekleurde categorieën, modelbeelden en tonnages; mobiel grote aanbodknoppen. Huuraanvraag vraagt huurperiode en klantgegevens; de vormgeving is druk en het formulier lang.",
+    "sources": [
+      {
+        "url": "https://www.dumarent.be/nl/contact/duma",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.dumarent.be/nl/Huren_bij_Duma_Rent/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contact: Duma Rent BV, Torkonjestraat 23, 8510 Marke, +32 (0)56 222 111. Verhuurnavigatie noemt alle zes categorieën, inclusief minikranen. Eén bedrijfsrecord; geen onbevestigde provinciale filialen toegevoegd. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/duma-rent-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "cebeko",
+    "name": "CEBEKO",
+    "website": "https://www.cebeko.be/",
+    "phone": "050 36 78 68",
+    "locations": [
+      {
+        "city": "Torhout",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Overzichtelijke machinekaarten met filters op gewicht en afmetingen. Mobiele contactpagina is leesbaar en vermeldt een aparte verhuurlijn; het aanvraagformulier vraagt onderwerp en bericht.",
+    "sources": [
+      {
+        "url": "https://www.cebeko.be/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.cebeko.be/contacteer-ons",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Homepage linkt verhuurcategorieën graafmachines, wielladers, verreikers, hoogwerkers, schaarliften en heftrucks. Contact noemt verhuur 050 36 78 68, Ringaertstraat 16, 8820 Torhout. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/cebeko-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "devako-machinery",
+    "name": "Devako Machinery",
+    "website": "https://www.devako.be/",
+    "phone": "+32 50 70 27 12",
+    "locations": [
+      {
+        "city": "Zedelgem",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Kranen",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Verhuurcategorieën, zoekveld en filters zijn duidelijk; mobiele machinekaarten tonen gewicht en dagtarieven exclusief btw. Contactformulier heeft een machineveld; de homepage wordt sterk door de grote foto gedomineerd.",
+    "sources": [
+      {
+        "url": "https://www.devako.be/nl/contact",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.devako.be/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contactpagina: Torhoutsesteenweg 329, 8210 Zedelgem; +32 50 70 27 12. Verhuurnavigatie bevat hoogwerkers, verreikers, graafmachines, mini-hijskranen, wiel- en schrankladers, heftrucks. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/devako-machinery-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "tvh-equipment",
+    "name": "TVH Equipment (inclusief Rentalift)",
+    "website": "https://www.tvhequipment.com/",
+    "phone": "+32 56 73 73 10",
+    "locations": [
+      {
+        "city": "Waregem",
+        "province": "West-Vlaanderen"
+      },
+      {
+        "city": "Diksmuide",
+        "province": "West-Vlaanderen"
+      },
+      {
+        "city": "Izegem",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Kranen",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Uitgebreide specificatietabellen en offerteknoppen per type, plus een stapsgewijs verhuurplatform. De brede producttabellen vragen op mobiel horizontaal scrollen; categoriekaarten passen wel.",
+    "sources": [
+      {
+        "url": "https://www.tvhequipment.com/nl/contact/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.tvhequipment.com/nl/locaties/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.rentalift.be/home",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.rentalift.be/contact",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "TVH officiële locatiepagina noemt Waregem en Diksmuide; verhuurcontact +32 56 73 73 10 en verhuurcategorieën hoogwerkers, heftrucks, verreikers, minirupshijskranen. Rentalift homepage bevestigt TVH Equipment Family; contact Ciepenstraat 28, 8870 Izegem, +32 51 31 74 11. Daarom gegroepeerd, niet dubbel geteld. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/tvh-equipment-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "wobemec",
+    "name": "Wobemec",
+    "website": "https://wobemec.be/",
+    "phone": "051 69 79 26",
+    "locations": [
+      {
+        "city": "Roeselare",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Rustige productkaarten; Bobcat-detail toont afmetingen, dagprijs, toebehoren en btw-/transportvoorwaarden. Mobiel goed leesbaar; aanvragen verloopt via algemeen contactformulier of telefoon.",
+    "sources": [
+      {
+        "url": "https://wobemec.be/verhuur/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://wobemec.be/kranen-en-kniklader/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Verhuurpagina vermeldt Diksmuidsesteenweg 624a, 8800 Roeselare, 051 69 79 26. Catalogue bevat Bobcat E10/E19/E27z en Knikmops KM100/KM130. Graafkranen niet als hijskranen gecategoriseerd. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/wobemec-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "huurland",
+    "name": "Huurland",
+    "website": "https://www.huurland.be/",
+    "phone": "050 31 22 05",
+    "locations": [
+      {
+        "city": "Brugge",
+        "province": "West-Vlaanderen"
+      },
+      {
+        "city": "Kortrijk",
+        "province": "West-Vlaanderen"
+      },
+      {
+        "city": "Oostende",
+        "province": "West-Vlaanderen"
+      },
+      {
+        "city": "Roeselare",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Kranen",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Herkenbare kleurcategorieën, zoekfunctie en duidelijke machinekaarten met werkhoogte/capaciteit. Mobiel overzichtelijk; contactformulier laat een filiaal kiezen, maar vraagt vrij veel gegevens.",
+    "sources": [
+      {
+        "url": "https://www.huurland.be/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.huurland.be/nl/filialen/1214/brugge",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.huurland.be/nl/filialen/1212/kortrijk",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.huurland.be/nl/filialen/1213/oostende",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.huurland.be/nl/filialen/1211/roeselare",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Vier officiële filiaalpagina’s opgehaald. Brugge: Lieven Bauwensstraat 19 A, 8200 Brugge, 050 31 22 05 (dit is het vermelde telefoonnummer). Verhuurgamma noemt hoogwerkers/schaarliften, hijskranen, verreikers/heftrucks. Eén ketenrecord. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/huurland-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "kranen-beernaert",
+    "name": "Kraanverhuur Beernaert",
+    "website": "https://www.kranenbeernaert.be/",
+    "phone": "051 70 17 19",
+    "locations": [
+      {
+        "city": "Staden",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Kranen"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Sterke kraanfotografie en eenvoudig menu; aanbod noemt modellen en linkt technische pdf-fiches. Mobiel schaalt de inhoud, maar kleine tekst en zwak contrast op de contactpagina; aanvraag vooral via telefoon/e-mail.",
+    "sources": [
+      {
+        "url": "https://www.kranenbeernaert.be/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.kranenbeernaert.be/contact.html",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Homepage verhuurt telescopische hijskranen en mobiele kranen. Contact: Kleine Veldstraat 24A, Staden, 051 70 17 19. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/kranen-beernaert-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "noordzee-kranen",
+    "name": "Noordzee Kranen en Transport",
+    "website": "https://www.noordzeekranen.be/",
+    "phone": "059 32 01 00",
+    "locations": [
+      {
+        "city": "Oostende",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Kranen"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke kraanfoto’s en vaste mobiele bel-/mailknoppen. Diensten geven capaciteit tot 400 ton en giekhoogte, maar geen vergelijkbaar modeloverzicht; contact bestaat uit telefoon, e-mail en adres.",
+    "sources": [
+      {
+        "url": "https://www.noordzeekranen.be/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.noordzeekranen.be/contact/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 3,
+      "products": 3,
+      "enquiry": 3
+    },
+    "evidence": "Officiële homepage: telescopische kranen tot 400 ton, mobiele torenkranen en kraan huren. Contact: Ankerstraat 4, 8400 Oostende, +32 (0)59 32 01 00. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/noordzee-kranen-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "toprentals",
+    "name": "Toprentals",
+    "website": "https://www.toprentals.be/",
+    "phone": "+32 477 814 457",
+    "locations": [
+      {
+        "city": "Staden",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Kranen"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Leesbare moderne opmaak met prominente contact- en offerteknoppen. Aanbod groepeert kranen en toebehoren; veel algemene verhuistekst vóór de modellen en een omvangrijke cookiebalk op mobiel.",
+    "sources": [
+      {
+        "url": "https://www.toprentals.be/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.toprentals.be/contact",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 3,
+      "enquiry": 4
+    },
+    "evidence": "Homepage bevestigt verhuur bouwkranen en machines met of zonder operator. Contact: Kleine Veldstraat 24D, 8840 Staden, +32 477 814 457. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/toprentals-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  },
+  {
+    "id": "wyckrent",
+    "name": "Wyckrent Machineverhuur",
+    "website": "https://www.wyckrent.be/",
+    "phone": "0496 87 41 20",
+    "locations": [
+      {
+        "city": "Ruiselede (Wingene)",
+        "province": "West-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke categoriekaarten, telefoonknop en eenvoudig contactformulier. Mobiele kaarten passen, maar de titel Schaarhoogtewerkers wordt rechts afgesneden; overzicht vermeldt modellen/werkhoogten zonder uitgebreide vergelijking.",
+    "sources": [
+      {
+        "url": "https://www.wyckrent.be/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      },
+      {
+        "url": "https://www.wyckrent.be/contact/",
+        "label": "Officiële website: verhuuraanbod of contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 3,
+      "enquiry": 4
+    },
+    "evidence": "Browsertekst homepage en contact: Eekhoutstraat 30, 8755 Ruiselede, 0496 87 41 20. Officiële homepage verhuurcategorie Hoogtewerkers. Grondverzet en heffen/hijsen niet verder uitgesplitst wegens ontbrekende productverificatie. Visuele websitebeoordeling 2026-11-19: desktop 1440×900 en mobiel 390×900; homepagebeelden daadwerkelijk bekeken, aanbod- en aanvraag/contactinhoud gecontroleerd. Screenshots en URL/tekstbewijs: evidence/West-Vlaanderen/wyckrent-*. Alleen publieke websitekwaliteit; geen formulier verstuurd of werking van verzending getest."
+  }
+]

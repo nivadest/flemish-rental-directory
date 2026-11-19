@@ -1,0 +1,557 @@
+[
+  {
+    "id": "geerits-verhuur",
+    "name": "Geerits Verhuur NV",
+    "website": "https://www.geeritsverhuur.be/",
+    "phone": "+32 89 47 36 06",
+    "locations": [
+      {
+        "city": "Bree",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke beeldhiërarchie en machinefilters; offerte bevat periode en levering. Grote cookielaag bedekt mobiel veel inhoud; enkele homepageknoppen verwijzen naar dezelfde pagina.",
+    "sources": [
+      {
+        "url": "https://www.geeritsverhuur.be/machineverhuur",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Machineverhuurpagina noemt graafmachines, knikwielladers, heftrucks, (roterende) verreikers en hoogwerkers; footer: Kluitshofweg 10, 3960 Bree en telefoon. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/geerits-verhuur-desktop.png en geerits-verhuur-mobile-top.png."
+  },
+  {
+    "id": "schops-machines",
+    "name": "Schops Machines",
+    "website": "https://schopsmachines.be/",
+    "phone": "+32 474 03 87 36",
+    "locations": [
+      {
+        "city": "Heusden-Zolder",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers"
+    ],
+    "rating": 5,
+    "reviewDate": "2026-11-19",
+    "reason": "Goed leesbare mobiele kaarten, zoekfunctie en categorieën; dag-, weekend-, week- en maandprijzen met btw-keuze. Aanvraag toont machine, periode, levering en samenvatting; persoonlijke bevestiging expliciet.",
+    "sources": [
+      {
+        "url": "https://schopsmachines.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 5,
+      "products": 5,
+      "enquiry": 5
+    },
+    "evidence": "Homepage: afhalen in Heusden-Zolder, telefoon 0474 03 87 36 en verhuur van minigravers en knikladers vanaf één dag. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/schops-machines-desktop.png en schops-machines-mobile-top.png."
+  },
+  {
+    "id": "jc-rent",
+    "name": "JC-rent",
+    "website": "https://jc-rent.be/",
+    "phone": "+32 11 27 88 00",
+    "locations": [
+      {
+        "city": "Pelt",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Eenvoudige catalogus met herkenbare categoriebeelden, zoekveld en contactgegevens. Producten tonen meerdere huurperiodes en prijzen; mobiel lange stapeling en lichte horizontale overloop.",
+    "sources": [
+      {
+        "url": "https://jc-rent.be/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://jc-rent.be/contact",
+        "label": "Officiële contact- of aanbodpagina"
+      },
+      {
+        "url": "https://jc-rent.be/verhuurgamma",
+        "label": "Officiële contact- of aanbodpagina"
+      },
+      {
+        "url": "https://jc-rent.be/verreikers-heftrucks-heftoestellen-hijstoestellen",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contact: Hamerslagstraat 5, 3900 Pelt, 011 27 88 00. Verhuurgamma noemt knikladers/graafmachines; homepage hoogtewerkers/schaarliften; productcategorie dieselheftrucks. Verreikers niet opgenomen: wel categorietitel, geen concreet model gezien. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/jc-rent-desktop.png en jc-rent-mobile-top.png."
+  },
+  {
+    "id": "wrt-verhuur",
+    "name": "WRT Verhuur",
+    "website": "https://wrt-verhuur.com/",
+    "phone": "+32 493 62 43 00",
+    "locations": [
+      {
+        "city": "Maasmechelen",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Mobiel leesbare kaarten en korte hoofdnavigatie; schaarliftpagina geeft tarieven, afmetingen en capaciteit. Nieuws bevat nog “Binnenkort meer” en de vele vergelijk- en beoordelingslabels maken de pagina druk.",
+    "sources": [
+      {
+        "url": "https://wrt-verhuur.com/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://wrt-verhuur.com/contact/",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Homepage verhuurt knikladers, minigravers en hoogwerkers. Contactpagina: Haagstraat 100, 3630 Maasmechelen; 0493 62 43 00. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/wrt-verhuur-desktop.png en wrt-verhuur-mobile-top.png."
+  },
+  {
+    "id": "verhuur-truyers",
+    "name": "Verhuur Truyers",
+    "website": "https://www.verhuur-truyers.be/",
+    "phone": "+32 11 53 77 32",
+    "locations": [
+      {
+        "city": "Heusden-Zolder",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Contactgegevens en openingsuren prominent, verhuurcategorieën met werkhoogtes en capaciteiten. Mobiele homepage laat vooral contactblokken en lege ruimte zien; aanbod vraagt doorklikken via menu.",
+    "sources": [
+      {
+        "url": "https://www.verhuur-truyers.be/welkom/contact/",
+        "label": "Officiële contact- of aanbodpagina"
+      },
+      {
+        "url": "https://www.verhuur-truyers.be/welkom/verhuur/",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 2,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contact: De Lange Beemden 47, 3550 Heusden-Zolder, 011-53 77 32; bureel op nr. 31. Verhuurpagina noemt expliciet hoogwerkers, schaarliften, heftrucks, verreikers en graafmachines. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/verhuur-truyers-desktop.png en verhuur-truyers-mobile-top.png."
+  },
+  {
+    "id": "its-rental",
+    "name": "It’s RENTAL!",
+    "website": "https://itsrental.be/",
+    "phone": "+32 467 00 38 44",
+    "locations": [
+      {
+        "city": "Sint-Truiden",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Wielladers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Moderne productkaarten, zoeken en duidelijke dagprijzen; modelvarianten, specificaties en verplichte verzekering staan op de productpagina. Nieuwsbriefvenster onderbreekt mobiel; bekeken product mist een beschrijving.",
+    "sources": [
+      {
+        "url": "https://itsrental.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Gerenderde homepage: Montenakenweg 525, 3800 Sint-Truiden (verhuisd augustus 2026), 0467 00 38 44; AVANT kniklader en spinhoogwerker 17 m met huurtarieven. Onderdeel van AVANT Machinery. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/its-rental-desktop.png en its-rental-mobile-top.png."
+  },
+  {
+    "id": "palmaers-verhuur",
+    "name": "Palmaers Verhuur",
+    "website": "https://www.palmaersverhuur.be/",
+    "phone": "+32 89 50 17 75",
+    "locations": [
+      {
+        "city": "Bilzen-Hoeselt",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Heftrucks",
+      "Hoogwerkers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Aanbod, prijzen en contact staan duidelijk in het menu; categorieën en offerteknoppen aanwezig. Mobiel veel witruimte en lange merkfooter, met kleine formuliervelden en lichtgrijze tekst.",
+    "sources": [
+      {
+        "url": "https://www.palmaersverhuur.be/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://www.palmaersverhuur.be/artikelen.html",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 3,
+      "enquiry": 3
+    },
+    "evidence": "Footer: Industrielaan 8 hal 3, 3730 Bilzen-Hoeselt, +32 (0)89 50 17 75. Aanbod bevat GRONDVERZETMACHINES - HEFTRUCKS en HOOGTEWERKERS, STELLINGEN, LADDERS EN STUTTEN. Alleen expliciete machinetypes opgenomen. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/palmaers-verhuur-desktop.png en palmaers-verhuur-mobile-top.png."
+  },
+  {
+    "id": "sanrobe-verhuur",
+    "name": "Sanrobe Verhuur",
+    "website": "https://sanrobeverhuur.be/",
+    "phone": "+32 12 45 72 13",
+    "locations": [
+      {
+        "city": "Riemst",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Overzichtelijke mobiele stapeling, huurlijst met modellen en dagprijzen; telefoon, WhatsApp en contactformulier zichtbaar. Homepage is vrij algemeen en de cookielaag neemt mobiel veel plaats in.",
+    "sources": [
+      {
+        "url": "https://sanrobeverhuur.be/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://sanrobeverhuur.be/contact",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contactpagina: Reeckervelt 15, 3770 Riemst, +32 (0)12 45 72 13. Verhuur van Kubota en Bobcat minigravers. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/sanrobe-verhuur-desktop.png en sanrobe-verhuur-mobile-top.png. Eerste homepagecontrole toonde browsercontrole; hercontrole laadde de website volledig, zie sanrobe-verhuur-desktop-clear.png."
+  },
+  {
+    "id": "joris-van-dijck",
+    "name": "Joris Van Dijck",
+    "website": "https://www.jorisvandijck.be/",
+    "phone": "+32 14 23 11 10",
+    "locations": [
+      {
+        "city": "Genk",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Heftrucks",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Sterke visuele hiërarchie en aparte huurrubrieken; contactaanvraag met onderwerp, vestiging en bijlage. Mobiele cookie- en leadvensters bedekken samen veel inhoud.",
+    "sources": [
+      {
+        "url": "https://www.jorisvandijck.be/nl/joris-van-dijck-genk",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Lokale pagina: Henry Fordlaan 51, 3600 Genk; centraal contactnummer +32 (0)14 23 11 10; expliciete verhuur heftrucks, hoogtewerkers en schaarliften. Eén bedrijfsrecord; Herentals buiten provincie. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/joris-van-dijck-desktop.png en joris-van-dijck-mobile-top.png. Volledige mobiele screenshot mislukte technisch; afzonderlijke mobiele bovenkant en inhoud wel vastgelegd en bekeken."
+  },
+  {
+    "id": "heftruck-service-limburg",
+    "name": "Heftruck Service Limburg (HSL)",
+    "website": "https://hsl.be/",
+    "phone": "+32 11 64 84 40",
+    "locations": [
+      {
+        "city": "Pelt",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Heftrucks"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Consistente moderne vormgeving en leesbare mobiele secties. Huur zit onder Fleet; de huurpagina beschrijft mogelijkheden maar toont geen concrete huurmodellen of tarieven, contact verloopt via adviesaanvraag.",
+    "sources": [
+      {
+        "url": "https://hsl.be/contact/",
+        "label": "Officiële contact- of aanbodpagina"
+      },
+      {
+        "url": "https://hsl.be/fleet/leasing/",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 3,
+      "products": 3,
+      "enquiry": 3
+    },
+    "evidence": "Contact: Heikesveld 66, 3910 Pelt en +32 11 64 84 40. Leasing & Huur: heftrucks van enkele dagen tot lange periodes, huurvloot Mitsubishi, EP en Yale. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/heftruck-service-limburg-desktop.png en heftruck-service-limburg-mobile-top.png."
+  },
+  {
+    "id": "foets",
+    "name": "Foets",
+    "website": "https://www.foets.com/",
+    "phone": "+32 14 84 00 73",
+    "locations": [
+      {
+        "city": "Tessenderlo",
+        "province": "Limburg"
+      },
+      {
+        "city": "Paal-Beringen",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke scheiding nieuw/verhuur/tweedehands, zoekfunctie en gedetailleerde productspecificaties. Mobiele bannertekst is klein en producttitels worden afgekapt; offerte- en contactroutes zijn aanwezig.",
+    "sources": [
+      {
+        "url": "https://www.foets.com/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://www.foets.com/custom/contact_us",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Homepage beschrijft online huren van heftrucks, verreikers, hoogwerkers, graafmachines en knikladers. Contact: Turnhoutsebaan 19, 3980 Tessenderlo, 014 84 00 73; De Weven 8, 3583 Beringen, 011 42 46 62. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/foets-desktop.png en foets-mobile-top.png."
+  },
+  {
+    "id": "marchandise",
+    "name": "Marchandise",
+    "website": "https://www.marchandise.be/",
+    "phone": "+32 89 35 79 37",
+    "locations": [
+      {
+        "city": "Genk",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Verzorgde mobiele opbouw, duidelijke huur-/kooplabels en uitgebreide productspecificaties met accessoires. Contactformulier en lokale vestigingen zichtbaar; onderzochte website opende standaard in het Engels.",
+    "sources": [
+      {
+        "url": "https://www.marchandise.be/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://www.marchandise.be/en/contact",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 4
+    },
+    "evidence": "Homepage vermeldt verkoop en verhuur inclusief telehandlers, aerial work platforms en mini excavators. Contact: Winterbeeklaan 1, 3600 Genk, +32 (0)89 35 79 37. Eén record; Engis/Montzen buiten Vlaanderen. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/marchandise-desktop.png en marchandise-mobile-top.png."
+  },
+  {
+    "id": "megamax-limburg",
+    "name": "Megamax Limburg",
+    "website": "https://www.megamaxlimburg.be/",
+    "phone": "+32 11 18 77 08",
+    "locations": [
+      {
+        "city": "Hasselt",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Kranen"
+    ],
+    "rating": 2,
+    "reviewDate": "2026-11-19",
+    "reason": "Catalogus ordent kranen naar tonnage en contactformulier staat op dezelfde pagina. Op 390 px blijft de inhoud circa 980 px breed: menu en inhoud vallen buiten beeld en vereisen horizontaal schuiven.",
+    "sources": [
+      {
+        "url": "https://www.megamaxlimburg.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 1,
+      "navigation": 2,
+      "products": 3,
+      "enquiry": 3
+    },
+    "evidence": "Bedrijfsprofiel en catalogus: mobiele telescoopkranen 30–450 ton, mobiele torenkranen en rupskranen. Contactsectie: Scheepvaartkaai 16, B-3500 Hasselt; +32 (0)11 18 77 08. Dochteronderneming van Megamax NV. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/megamax-limburg-desktop.png en megamax-limburg-mobile-top.png."
+  },
+  {
+    "id": "hs-lifting",
+    "name": "HS-Lifting",
+    "website": "https://hs-lifting.be/",
+    "phone": "+32 488 29 92 74",
+    "locations": [
+      {
+        "city": "Riemst",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Kranen",
+      "Wielladers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Heldere mobiele typografie, directe bel- en offerteknoppen; lastdiagrammen, afmetingen, tarieven, minimumduur en toeslagen uitgebreid beschreven. Tariefmelding en cookievenster onderbreken de eerste weergave.",
+    "sources": [
+      {
+        "url": "https://hs-lifting.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 5
+    },
+    "evidence": "Homepage: verhuur BG-Lift M250 minihijskraan met gecertificeerde operator vanuit stelplaats Riemst, +32 488 29 92 74. Tariefsectie noemt bijkomend huren van kniklader Giant 332. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/hs-lifting-desktop.png en hs-lifting-mobile-top.png."
+  },
+  {
+    "id": "ladeko",
+    "name": "Ladeko",
+    "website": "https://www.ladeko.be/",
+    "phone": "+32 476 84 46 41",
+    "locations": [
+      {
+        "city": "Peer",
+        "province": "Limburg"
+      }
+    ],
+    "types": [
+      "Kranen"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Rustige mobiele opbouw, duidelijke offerteknoppen en technische kraangegevens. Contactformulier en externe offertevragenlijst zichtbaar; huurtarieven ontbreken op de bekeken pagina’s.",
+    "sources": [
+      {
+        "url": "https://www.ladeko.be/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://www.ladeko.be/contact/",
+        "label": "Officiële contact- of aanbodpagina"
+      },
+      {
+        "url": "https://www.ladeko.be/onze-hijskraan/",
+        "label": "Officiële contact- of aanbodpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Homepage biedt compacte hijskraan met ervaren machinist; kraanpagina specificeert 2,5 ton en offerteaanvraag. Contact: Peerderstraat 57, 3990 Peer, +32 (0)476 84 46 41. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots daadwerkelijk bekeken, navigatie-, aanbod- en aanvraaginhoud gelezen. Geen formulier verzonden of werking van verzending getest. Bewijs: evidence/Limburg/ladeko-desktop.png en ladeko-mobile-top.png."
+  }
+]

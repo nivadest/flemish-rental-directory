@@ -1,0 +1,70 @@
+> **Actuele status:** alle opgenomen websites zijn nadien visueel op desktop en mobiel beoordeeld. Historische verwijzingen naar ontbrekende scores in de eerste onderzoeksfase zijn achterhaald; de latere visuele review en JSON zijn leidend.
+
+# West-Vlaanderen — onderzoek 2026-11-19
+
+## Resultaat en methode
+12 geverifieerde bedrijfs-/groepsrecords; 17 vermelde vestigingen. Alle zes gevraagde machinecategorieën vertegenwoordigd. Officiële websites/contactpagina’s daadwerkelijk opgehaald via web_fetch, browsertekst of publieke HTML via Python urllib. Readability liet vaak contactgegevens in header/footer weg: volledige HTML gecontroleerd, niet op basis van ontbrekende extracties geconcludeerd dat contact ontbreekt. Geen formulieren ingestuurd, geen publicatie.
+
+Alle ratings en vijf beoordelingsdimensies null: **Niet visueel beoordeeld**. Geen desktop-/mobiele screenshotreview uitgevoerd; tekstinspectie is geen visuele beoordeling. Klantrecensies niet overgenomen als websitekwaliteit.
+
+## Discovery searches
+- Google: machineverhuur West-Vlaanderen graafmachines hoogwerkers (fetch leeg; browser CAPTCHA, niet opgelost).
+- Bing fetch: machineverhuur West-Vlaanderen graafmachines hoogwerkers; "verhuur" "West-Vlaanderen" (onverwacht irrelevante resultaten, niet als bewijs gebruikt).
+- DuckDuckGo HTML: machineverhuur West-Vlaanderen — bruikbare resultaten: Huurland, Gromax, Wyckrent, Walca-rent, Verhuurdepot, Duma, Euromat, Vandaele, Wim Verhuur, Verde.
+- DuckDuckGo vervolgqueries hoogwerker verreiker verhuur West-Vlaanderen; graafmachine verhuur Roeselare Ieper Diksmuide; heftruck kranen verhuur West-Vlaanderen: challenge; niet opgelost.
+- Bing browser: hoogwerkers verhuur West-Vlaanderen — Rentalift, TVH, Duma, Devako, Cebeko.
+- Bing browser: graafmachine verhuur Roeselare Ieper Diksmuide — Wobemec, NCM, Boels, DBK.
+- Bing browser: kraanverhuur West-Vlaanderen bedrijf — Beernaert, Noordzee Kranen, Toprentals.
+- Apart browsertablabel: research-west-vlaanderen. Geen tabs van anderen gebruikt.
+
+## Geobserveerd bewijs per record
+- **Walca-rent**: Officiële homepage: Groenestraat 151, 8210 Zedelgem; telefoon 050/20 87 02; verhuur minigravers en Knikmops K130/K250 met dag- en weekprijzen. Bronnen: https://www.walca-rent.be/home/
+- **Vandaele Rental**: Verhuurpagina noemt graafmachines, verreikers en wielladers; verhuurnavigatie noemt spinhoogwerkers en schaarliften. Contact: Vandaele Rental, Ingelmunstersteenweg 190, 8780 Oostrozebeke, +32 56 67 40 00. Bronnen: https://www.vandaele-machinery.be/nl/machines-huren ; https://www.vandaele-machinery.be/nl/contact
+- **Duma Rent**: Contact: Duma Rent BV, Torkonjestraat 23, 8510 Marke, +32 (0)56 222 111. Verhuurnavigatie noemt alle zes categorieën, inclusief minikranen. Eén bedrijfsrecord; geen onbevestigde provinciale filialen toegevoegd. Bronnen: https://www.dumarent.be/nl/contact/duma ; https://www.dumarent.be/nl/Huren_bij_Duma_Rent/
+- **CEBEKO**: Homepage linkt verhuurcategorieën graafmachines, wielladers, verreikers, hoogwerkers, schaarliften en heftrucks. Contact noemt verhuur 050 36 78 68, Ringaertstraat 16, 8820 Torhout. Bronnen: https://www.cebeko.be/ ; https://www.cebeko.be/contacteer-ons
+- **Devako Machinery**: Contactpagina: Torhoutsesteenweg 329, 8210 Zedelgem; +32 50 70 27 12. Verhuurnavigatie bevat hoogwerkers, verreikers, graafmachines, mini-hijskranen, wiel- en schrankladers, heftrucks. Bronnen: https://www.devako.be/nl/contact ; https://www.devako.be/
+- **TVH Equipment (inclusief Rentalift)**: TVH officiële locatiepagina noemt Waregem en Diksmuide; verhuurcontact +32 56 73 73 10 en verhuurcategorieën hoogwerkers, heftrucks, verreikers, minirupshijskranen. Rentalift homepage bevestigt TVH Equipment Family; contact Ciepenstraat 28, 8870 Izegem, +32 51 31 74 11. Daarom gegroepeerd, niet dubbel geteld. Bronnen: https://www.tvhequipment.com/nl/contact/ ; https://www.tvhequipment.com/nl/locaties/ ; https://www.rentalift.be/home ; https://www.rentalift.be/contact
+- **Wobemec**: Verhuurpagina vermeldt Diksmuidsesteenweg 624a, 8800 Roeselare, 051 69 79 26. Catalogue bevat Bobcat E10/E19/E27z en Knikmops KM100/KM130. Graafkranen niet als hijskranen gecategoriseerd. Bronnen: https://wobemec.be/verhuur/ ; https://wobemec.be/kranen-en-kniklader/
+- **Huurland**: Vier officiële filiaalpagina’s opgehaald. Brugge: Lieven Bauwensstraat 19 A, 8200 Brugge, 050 31 22 05 (dit is het vermelde telefoonnummer). Verhuurgamma noemt hoogwerkers/schaarliften, hijskranen, verreikers/heftrucks. Eén ketenrecord. Bronnen: https://www.huurland.be/ ; https://www.huurland.be/nl/filialen/1214/brugge ; https://www.huurland.be/nl/filialen/1212/kortrijk ; https://www.huurland.be/nl/filialen/1213/oostende ; https://www.huurland.be/nl/filialen/1211/roeselare
+- **Kraanverhuur Beernaert**: Homepage verhuurt telescopische hijskranen en mobiele kranen. Contact: Kleine Veldstraat 24A, Staden, 051 70 17 19. Bronnen: https://www.kranenbeernaert.be/ ; https://www.kranenbeernaert.be/contact.html
+- **Noordzee Kranen en Transport**: Officiële homepage: telescopische kranen tot 400 ton, mobiele torenkranen en kraan huren. Contact: Ankerstraat 4, 8400 Oostende, +32 (0)59 32 01 00. Bronnen: https://www.noordzeekranen.be/ ; https://www.noordzeekranen.be/contact/
+- **Toprentals**: Homepage bevestigt verhuur bouwkranen en machines met of zonder operator. Contact: Kleine Veldstraat 24D, 8840 Staden, +32 477 814 457. Bronnen: https://www.toprentals.be/ ; https://www.toprentals.be/contact
+- **Wyckrent Machineverhuur**: Browsertekst homepage en contact: Eekhoutstraat 30, 8755 Ruiselede, 0496 87 41 20. Officiële homepage verhuurcategorie Hoogtewerkers. Grondverzet en heffen/hijsen niet verder uitgesplitst wegens ontbrekende productverificatie. Bronnen: https://www.wyckrent.be/ ; https://www.wyckrent.be/contact/
+
+## Afbakening en beperkingen
+- TVH en Rentalift gegroepeerd: Rentalift noemt zelf TVH Equipment Family. Huurland één record met vier bevestigde provinciale filialen. Duma één record, uitsluitend Marke bevestigd.
+- Wobemec en Walca: knikladers onder Wielladers; graafkranen onder Graafmachines, niet onder hijskranen.
+- Wyckrent: alleen Hoogwerkers opgenomen. Andere categorieën grondverzet/heffen waren te breed voor verdere classificatie.
+- Gromax: verhuur graafmachines met chauffeur en Gistel op officiële pagina bevestigd, maar telefoon niet volledig geverifieerd; niet opgenomen. URLs: https://grondwerkengromax.be/diensten/machineverhuur/ en https://grondwerkengromax.be/contact/.
+- Verde: verhuur minigravers en Rekkem bevestigd; telefoon niet geverifieerd. Niet opgenomen. https://www.verde.be/contents/nl/d49_bouw.html en https://www.verde.be/.
+- Verhuurdepot: aanbod kranen bevestigd, precieze vestiging/telefoon niet afgerond. Niet opgenomen; https://verhuurdepot.be/.
+- NCM contact gecontroleerd: Booischot, buiten provincie; uitgesloten. Wim Verhuur geen provinciale vestiging bevestigd; uitgesloten. Euromat, Boels en DBK alleen ontdekt, niet als geverifieerde records gepresenteerd.
+- Geen volledigheidsclaim; Ieper/Poperinge/Veurne en Knokke blijven geografische hiaten. Verhuurcategorieën gelden bedrijfsbreed, niet als realtime voorraad per vestiging. Geen beschikbaarheid of prijzen gegarandeerd.
+
+
+## Aanvulling: visuele websitebeoordeling 2026-11-19
+Deze aanvulling vervangt de eerdere status “Niet visueel beoordeeld”: alle 12 records zijn nu visueel beoordeeld. Eigen tab `review-West-Vlaanderen`; Playwright via bestaande lokale browser. Desktop 1440×900 en mobiele viewport 390×900 (geen fysiek toestel). Alle 24 homepagebeelden daadwerkelijk bekeken; daarnaast aanbod-/contactbeelden en dieper productbewijs bekeken. 78 screenshots bewaard onder `evidence/West-Vlaanderen/`, naast `*-observations.json`, `*-details.json` en waar nodig `*-extra.json` met bezochte URLs en tekst.
+
+Scores in volgorde design / mobiel / navigatie / producten / aanvraag; overall is het afgeronde rekenkundige gemiddelde. Ankers: 1 grote gebruiksbarrières; 2 duidelijke substantiële hiaten; 3 functioneel/basis; 4 helder, modern en nuttig; 5 uitstekend, gedetailleerd en bruikbaar. Dit is een subjectieve beoordeling van publieke websites, niet van bedrijven, dienstverlening of machinekwaliteit. Geen formulieren verzonden, geen validatie/verzending of beschikbaarheid getest.
+
+- **Walca-rent** — 2/1/3/4/3 → 3/5. Productspecificaties en dag-/weekprijzen zijn concreet. De vaste brede lay-out snijdt op mobiel tekst en menu af; contactformulier en telefoon zijn aanwezig, maar openingsuren verschillen tussen home en contact. Bewijs: `walca-rent-1440.png`, `walca-rent-390.png`, `walca-rent-products-1440.png`, `walca-rent-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Vandaele Rental** — 4/4/4/4/4 → 4/5. Heldere huur-/koopnavigatie, machinefilters en afmetingen per model. Mobiel leesbaar met grote knoppen; uitgebreide contactkeuze, maar veel introductietekst vóór het aanbod. Bewijs: `vandaele-rental-1440.png`, `vandaele-rental-390.png`, `vandaele-rental-products-1440.png`, `vandaele-rental-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Duma Rent** — 3/4/4/4/4 → 4/5. Duidelijke gekleurde categorieën, modelbeelden en tonnages; mobiel grote aanbodknoppen. Huuraanvraag vraagt huurperiode en klantgegevens; de vormgeving is druk en het formulier lang. Bewijs: `duma-rent-1440.png`, `duma-rent-390.png`, `duma-rent-products-1440.png`, `duma-rent-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **CEBEKO** — 4/4/4/4/4 → 4/5. Overzichtelijke machinekaarten met filters op gewicht en afmetingen. Mobiele contactpagina is leesbaar en vermeldt een aparte verhuurlijn; het aanvraagformulier vraagt onderwerp en bericht. Bewijs: `cebeko-1440.png`, `cebeko-390.png`, `cebeko-products-1440.png`, `cebeko-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Devako Machinery** — 4/4/4/4/4 → 4/5. Verhuurcategorieën, zoekveld en filters zijn duidelijk; mobiele machinekaarten tonen gewicht en dagtarieven exclusief btw. Contactformulier heeft een machineveld; de homepage wordt sterk door de grote foto gedomineerd. Bewijs: `devako-machinery-1440.png`, `devako-machinery-390.png`, `devako-machinery-products-1440.png`, `devako-machinery-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **TVH Equipment (inclusief Rentalift)** — 3/3/4/4/4 → 4/5. Uitgebreide specificatietabellen en offerteknoppen per type, plus een stapsgewijs verhuurplatform. De brede producttabellen vragen op mobiel horizontaal scrollen; categoriekaarten passen wel. Bewijs: `tvh-equipment-1440.png`, `tvh-equipment-390.png`, `tvh-equipment-products-1440.png`, `tvh-equipment-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Wobemec** — 3/4/4/4/3 → 4/5. Rustige productkaarten; Bobcat-detail toont afmetingen, dagprijs, toebehoren en btw-/transportvoorwaarden. Mobiel goed leesbaar; aanvragen verloopt via algemeen contactformulier of telefoon. Bewijs: `wobemec-1440.png`, `wobemec-390.png`, `wobemec-products-1440.png`, `wobemec-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Huurland** — 4/4/4/4/4 → 4/5. Herkenbare kleurcategorieën, zoekfunctie en duidelijke machinekaarten met werkhoogte/capaciteit. Mobiel overzichtelijk; contactformulier laat een filiaal kiezen, maar vraagt vrij veel gegevens. Bewijs: `huurland-1440.png`, `huurland-390.png`, `huurland-products-1440.png`, `huurland-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Kraanverhuur Beernaert** — 4/3/4/4/3 → 4/5. Sterke kraanfotografie en eenvoudig menu; aanbod noemt modellen en linkt technische pdf-fiches. Mobiel schaalt de inhoud, maar kleine tekst en zwak contrast op de contactpagina; aanvraag vooral via telefoon/e-mail. Bewijs: `kranen-beernaert-1440.png`, `kranen-beernaert-390.png`, `kranen-beernaert-products-1440.png`, `kranen-beernaert-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Noordzee Kranen en Transport** — 3/4/3/3/3 → 3/5. Duidelijke kraanfoto’s en vaste mobiele bel-/mailknoppen. Diensten geven capaciteit tot 400 ton en giekhoogte, maar geen vergelijkbaar modeloverzicht; contact bestaat uit telefoon, e-mail en adres. Bewijs: `noordzee-kranen-1440.png`, `noordzee-kranen-390.png`, `noordzee-kranen-products-1440.png`, `noordzee-kranen-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Toprentals** — 4/4/4/3/4 → 4/5. Leesbare moderne opmaak met prominente contact- en offerteknoppen. Aanbod groepeert kranen en toebehoren; veel algemene verhuistekst vóór de modellen en een omvangrijke cookiebalk op mobiel. Bewijs: `toprentals-1440.png`, `toprentals-390.png`, `toprentals-products-1440.png`, `toprentals-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+- **Wyckrent Machineverhuur** — 4/3/4/3/4 → 4/5. Duidelijke categoriekaarten, telefoonknop en eenvoudig contactformulier. Mobiele kaarten passen, maar de titel Schaarhoogtewerkers wordt rechts afgesneden; overzicht vermeldt modellen/werkhoogten zonder uitgebreide vergelijking. Bewijs: `wyckrent-1440.png`, `wyckrent-390.png`, `wyckrent-products-1440.png`, `wyckrent-enquiry-390.png` en bijbehorende tekst/URL-bestanden.
+
+### Grenzen en hercontrole
+- Geen onbereikbare websites en geen null-beoordelingen nodig. Alle 12 homepages plus aanbod/contactroutes bereikbaar.
+- Cookievensters zijn niet als defect beoordeeld; waar mogelijk noodzakelijke cookies/afwijzen gekozen. Voor Devako aanvullend mobiel aanbod zonder overlappend cookievenster bekeken.
+- CEBEKO liet direct na resize tijdelijk menutekst over content zien; herladen op 390 px gaf een nette contactpagina (`cebeko-extra-390.png`). Tijdelijke resize-toestand niet als structureel defect beoordeeld.
+- TVH-beoordeling betreft de primaire TVH Equipment-site, niet een afzonderlijke volledige Rentalift-review.
+- Beernaert: technische pdf-links geobserveerd; inhoud van die pdf’s niet afzonderlijk gevalideerd.
+- Wyckrent: mobiele titel afgesneden op de schaarhoogtewerkerslijst (`wyckrent-extra-390.png`); contactformulier zelf past.
+- Walca: zichtbare openingsuren op contactpagina verschillen van homepagebericht; geen conclusie over actuele bedrijfsuren getrokken.

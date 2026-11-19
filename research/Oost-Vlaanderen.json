@@ -1,0 +1,422 @@
+[
+  {
+    "id": "nml-verhuur",
+    "name": "NML Verhuur",
+    "website": "https://www.nmlverhuur.be/",
+    "phone": "0472 05 47 20",
+    "locations": [
+      {
+        "city": "Brakel",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers"
+    ],
+    "rating": 5,
+    "reviewDate": "2026-11-19",
+    "reason": "Rustige vormgeving, duidelijke categorieën en mobiele bel-, WhatsApp- en offertebalk. Productdetail toont dag/weekprijzen, btw, afmetingen en bijkomende kosten; offerteformulier vraagt toestel en huurperiode.",
+    "sources": [
+      {
+        "url": "https://www.nmlverhuur.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://www.nmlverhuur.be/contact",
+        "label": "Officiële contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 5,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 5
+    },
+    "evidence": "Contact: Kanakkendries 12, 9660 Brakel; 0472/05 47 20. Homepage toont Takeuchi TB210R/TB217R/TB325R minigravers en Giant G2500 kniklader met huurprijzen. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/nml-verhuur-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "tuboma",
+    "name": "Tuboma",
+    "website": "https://tuboma.be/",
+    "phone": "055 330 331",
+    "locations": [
+      {
+        "city": "Oudenaarde",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Samenhangende blauwe vormgeving en doorzoekbare verhuurcategorieën met concrete modellen. Mobiele pagina’s stapelen leesbaar, maar lange introducties vertragen het bereiken van het aanbod en een sluitingsmelding loopt buiten beeld; contact en openingsuren zijn vindbaar.",
+    "sources": [
+      {
+        "url": "https://tuboma.be/contact/",
+        "label": "Officiële contactgegevens"
+      },
+      {
+        "url": "https://tuboma.be/diensten/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://tuboma.be/verhuur/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Contact: Gentstraat 198, 9700 Oudenaarde; 055 330 331. Dienstenpagina noemt verkoop en verhuur van spinhoogwerkers. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/tuboma-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "eurorent",
+    "name": "Euro Rent",
+    "website": "https://www.eurorent.be/",
+    "phone": "03 776 70 70",
+    "locations": [
+      {
+        "city": "Sint-Niklaas",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke zoekbalk, categorieën en filters op onder meer graafdiepte en cabine. Mobiele kaarten blijven leesbaar; contactformulier biedt vestigingskeuze. De graafmachinecategorie mengt machines en veel toebehoren, wat extra selectie vraagt.",
+    "sources": [
+      {
+        "url": "https://www.eurorent.be/contact/",
+        "label": "Officiële contactgegevens"
+      },
+      {
+        "url": "https://www.eurorent.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 5,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contactpagina in browser gelezen: Moerputstraat 1, 9100 Sint-Niklaas; 03 776 70 70. Populair om te huren: Hoogwerkers, Schaarliften, Graafmachines. Eén bedrijfsrecord; alleen provinciale vestiging opgenomen. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/eurorent-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "smet-rent",
+    "name": "Smet Rent",
+    "website": "https://www.smetrent.be/",
+    "phone": "0487 36 37 25",
+    "locations": [
+      {
+        "city": "Belsele (Sint-Niklaas)",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Kranen",
+      "Heftrucks",
+      "Hoogwerkers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Herkenbare categoriekaarten; graafmachineoverzicht vermeldt gewicht, graafdiepte en dag/week/weekendtarieven. Mobiel nemen herhaalde banner en groot logo veel ruimte in. Reservatieformulier is uitgebreid en licht bevestiging en annuleringsvoorwaarden toe.",
+    "sources": [
+      {
+        "url": "https://www.smetrent.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Homepage volledige browsertekst: Kleemstraat 21, 9111 Belsele; 0487 36 37 25. Verhuuroverzicht noemt rups- en graafmachines, wiellader en heftruck; tekst noemt kranen en hoogwerkers te huur. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/smet-rent-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "de-block-verhuur",
+    "name": "De Block Verhuur",
+    "website": "https://www.deblockverhuur.be/",
+    "phone": "09 361 10 00",
+    "locations": [
+      {
+        "city": "Lokeren",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke fotocategorieën, broodkruimels, zoekveld en prijslijstlink; mobiel staan bellen en mailen direct bovenaan. Assortiment vraagt meerdere categorieniveaus; algemeen contactformulier toont ook Bedrijf als verplicht veld.",
+    "sources": [
+      {
+        "url": "https://www.deblockverhuur.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Volledige officiële HTML gelezen: exploitatiezetel Wolfsakker 4-6, 9160 Lokeren; maatschappelijke zetel Brandstraat 21; 09 361 10 00. Verhuuraanbod noemt graafmachines, wielladers, hoogwerkers, schaarliften en heftrucks. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/de-block-verhuur-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "vergauwen-heftrucks",
+    "name": "Vergauwen Heftrucks",
+    "website": "https://vergauwenheftrucks.be/",
+    "phone": "03 774 28 68",
+    "locations": [
+      {
+        "city": "Bazel",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Heftrucks"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Eenvoudige éénpaginawebsite met grote, mobiel goed stapelende navigatieknoppen en zichtbare contactgegevens. Verhuurtekst noemt perioden maar geen afzonderlijke modellen, capaciteiten of tarieven; berichtformulier vraagt een hoofdlettergevoelige code.",
+    "sources": [
+      {
+        "url": "https://vergauwenheftrucks.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 3,
+      "products": 2,
+      "enquiry": 3
+    },
+    "evidence": "Homepage: alle heftruckmodellen te huur per dag/week/maand/jaar; +32 3 774 28 68. Volledige officiële HTML contactblok: Paul Vergauwen, Kerkstraat 299, 9150 Bazel. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/vergauwen-heftrucks-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "goossens-heftrucks",
+    "name": "Goossens Heftrucks",
+    "website": "https://www.goossensheftrucks.be/",
+    "phone": "09 356 39 69",
+    "locations": [
+      {
+        "city": "Lochristi",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Heftrucks"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke verhuurlink en leesbare week/maandtarieven per hefvermogen, met telefoon en mail in de kop. De verhuurpagina is vooral tekst; promotiepop-up, grote mobiele kop en cookie-/chatlagen nemen veel schermruimte in.",
+    "sources": [
+      {
+        "url": "https://www.goossensheftrucks.be/verhuur/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://www.goossensheftrucks.be/contact-goossens-heftrucks-2/",
+        "label": "Officiële contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Contact: Ambachtenlaan 10, 9080 Lochristi; 09 356 39 69. Verhuurpagina toont Still RX20/RX60 heftrucks, 1,5 tot 5 ton, met week- en maandtarieven. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/goossens-heftrucks-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "jo-verhuurcenter",
+    "name": "Jo Verhuurcenter",
+    "website": "https://www.graafmachines-huren.be/",
+    "phone": "0475 24 07 82",
+    "locations": [
+      {
+        "city": "Lede",
+        "province": "Oost-Vlaanderen",
+        "role": "Enkel op afspraak"
+      },
+      {
+        "city": "Zele",
+        "province": "Oost-Vlaanderen",
+        "role": "Maatschappelijke zetel; enkel op afspraak"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Hoogwerkers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Desktop biedt herkenbare machinecategorieën, technische-fichelinks en een eenvoudig contactformulier. Op 390 px blijft de pagina circa 980 px breed: logo, menu en contactinhoud vallen buiten beeld. Graafmachineprijzen zijn op aanvraag, toebehoren hebben dagprijzen.",
+    "sources": [
+      {
+        "url": "https://www.joverhuurcenter.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://www.graafmachines-huren.be/contact",
+        "label": "Officiële contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 1,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Homepage joverhuurcenter verwijst naar graafmachines-huren en noemt verhuur graafmachines, knikladers, hoogtewerkers. Contact: Kleiweg 19, 9340 Lede; Meerkant 45, 9240 Zele (maatschappelijke zetel); 0475 24 07 82. Enkel op afspraak. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/jo-verhuurcenter-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "peter-bilt",
+    "name": "Peter-Bilt",
+    "website": "https://www.peter-bilt.be/",
+    "phone": "09 222 68 09",
+    "locations": [
+      {
+        "city": "Zwijnaarde (Gent)",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Verreikers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Eenvoudige catalogus met foto’s en uurtarieven; SV08-detail geeft minimumduur, afmetingen, graafdiepte en een vraagformulier. Mobiele detailpagina is leesbaar, maar de homepage heeft veel witruimte en sterk verkleinde promotiebeelden.",
+    "sources": [
+      {
+        "url": "https://www.peter-bilt.be/contact",
+        "label": "Officiële contactgegevens"
+      },
+      {
+        "url": "https://www.peter-bilt.be/verhuur/kraan",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://www.peter-bilt.be/verhuur/kniklader",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://www.peter-bilt.be/verhuur/verreiker",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contact: Krekelstraat 22 B, 9052 Zwijnaarde; +32 9 222 68 09 (optie 2). Huurcatalogus toont Yanmar graafmachines, Norcar knikladers, Dieci Mini Agri 26.6 en Manitou MLT 625 verreikers. Kraan-categorie bevat graafmachines, geen hijskranen toegewezen. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/peter-bilt-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "dma-sale-rent",
+    "name": "DMA Sale & Rent",
+    "website": "https://www.dmarent.eu/",
+    "phone": "09 338 00 63",
+    "locations": [
+      {
+        "city": "Kruisem",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Kranen",
+      "Hoogwerkers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Samenhangende turquoise vormgeving met leesbare mobiele indeling en direct zichtbare telefoon/mail. Aanbod wordt vooral algemeen beschreven met projectfoto’s, zonder vergelijkbare huurmodellen of tarieven op de bekeken pagina’s; contactformulier is aanwezig.",
+    "sources": [
+      {
+        "url": "https://www.dmarent.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://www.dmarent.eu/contact",
+        "label": "Officiële contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 3,
+      "products": 2,
+      "enquiry": 3
+    },
+    "evidence": "Officiële homepage: verhuur telescopische kranen, hoogtewerkers en schaarliften. Contact: Stokstraat 36, 9770 Kruisem; 09 338 00 63. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/dma-sale-rent-*. Formulieren niet verzonden."
+  },
+  {
+    "id": "tieleman-verhuur",
+    "name": "Tieleman Verhuur",
+    "website": "https://tielemanverhuur.be/",
+    "phone": "0494 91 86 77",
+    "locations": [
+      {
+        "city": "Aalter",
+        "province": "Oost-Vlaanderen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Kranen",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke machinekaarten met hefvermogen, mastlengte en belknoppen; categorie en contactpagina stapelen goed op mobiel. Prijzen vragen contact; de eerste cookie-overlay was bij formaatwissel afgesneden, maar de opnieuw geladen pagina’s waren leesbaar.",
+    "sources": [
+      {
+        "url": "https://www.kraanverhuurtieleman.be/",
+        "label": "Officieel verhuuraanbod en bedrijfsgegevens"
+      },
+      {
+        "url": "https://tielemanverhuur.be/nl/contact_",
+        "label": "Officiële contactgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contact: Léon Bekaertlaan 28, 9880 Aalter; +32 494 91 86 77. Homepage biedt telescoopkranen, hoogwerkers, schaarliften, verreikers/roterende verreikers, heftrucks en graafkranen/minigravers te huur. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844 daadwerkelijk bekeken; homepage, aanbod en contact/aanvraaginhoud gecontroleerd. Screenshots en waarnemingen: evidence/Oost-Vlaanderen/tieleman-verhuur-*. Formulieren niet verzonden."
+  }
+]

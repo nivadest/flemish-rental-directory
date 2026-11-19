@@ -1,0 +1,463 @@
+[
+  {
+    "id": "al-verhuur",
+    "name": "AL Verhuur",
+    "website": "https://alverhuur.be",
+    "phone": "02 253 30 30",
+    "locations": [
+      {
+        "city": "Vilvoorde",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke categorieën, zoekfunctie en productfilters met prijzen en reserveerknoppen. Mobiele introductietekst is erg groot en duwt het aanbod naar beneden; uitgebreid contactformulier.",
+    "sources": [
+      {
+        "url": "https://alverhuur.be/",
+        "label": "Officieel verhuuraanbod"
+      },
+      {
+        "url": "https://alverhuur.be/contact/",
+        "label": "Officiële contact- en vestigingsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contact: Mechelsesteenweg 590, 1800 Vilvoorde; 02 253 30 30. Officiële verhuurnavigatie noemt graafmachines, knikladers, heftrucks, starre/roterende verreikers en hoogwerkers. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/al-verhuur-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "rent-assist",
+    "name": "Rent-Assist",
+    "website": "https://rent-assist.be",
+    "phone": "0467 33 90 81",
+    "locations": [
+      {
+        "city": "Tienen",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Overzichtelijke producttegels en goed leesbare mobiele stapeling. Avant-detail toont afmetingen, capaciteit, dag- tot maandprijzen en waarborg; aanvraag met huurdata. Enkele footerlinks bevatten onjuiste tel/mailto-opmaak.",
+    "sources": [
+      {
+        "url": "https://rent-assist.be/",
+        "label": "Officieel verhuuraanbod"
+      },
+      {
+        "url": "https://rent-assist.be/contact/",
+        "label": "Officiële contact- en vestigingsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 4
+    },
+    "evidence": "Grijpenlaan 24b, 3300 Tienen; gsm 0467 33 90 81. Site noemt verhuur van graafmachines, hoogtewerkers en knikladers. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/rent-assist-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "maes-rental",
+    "name": "Maes Rental",
+    "website": "https://maesrental.be",
+    "phone": "0471 26 79 04",
+    "locations": [
+      {
+        "city": "Bekkevoort",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Verzorgde catalogus met huurperiode, dagprijs, accessoires en offerteknop. Productdetail past mobiel goed, maar op de homepage breekt “Machineverhuur” ongelukkig af. Transporttarieven zijn concreet vermeld.",
+    "sources": [
+      {
+        "url": "https://maesrental.be/",
+        "label": "Officieel verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Maes-Laeremans bv; magazijn Langerode 17/B8, 3460 Bekkevoort; 0471 26 79 04. Homepage toont Minigraver 4T, Minigraver 1,9T en Kniklader 1,5T als verhuurproducten. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/maes-rental-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "mc-service",
+    "name": "M&C Service",
+    "website": "https://mcservice.be",
+    "phone": "0475 23 84 84",
+    "locations": [
+      {
+        "city": "Grimbergen (Strombeek-Bever)",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Hoogwerkers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Telefoon en verhuurknoppen vallen op; machineoverzicht vermeldt werkhoogten en dagprijzen en contact bevat machinekeuze. Taalkeuze en cookievenster nemen mobiel veel ruimte; Nederlandse homepage werkt via de taallink.",
+    "sources": [
+      {
+        "url": "https://mcservice.be/nl/contact",
+        "label": "Officiële contact- en vestigingsgegevens"
+      },
+      {
+        "url": "https://mcservice.be/nl/verhuur-hoogtewerkers-vlaams-brabant",
+        "label": "Officieel verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contact vermeldt Gentsestraat 45, 1853 Grimbergen (Strombeek-Bever), 0475 23 84 84. Officiële pagina beschrijft location de nacelles / camions nacelle. NL-routes leveren momenteel Franse inhoud. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/mc-service-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "verhuur-center",
+    "name": "Verhuur Center",
+    "website": "https://verhuur.center",
+    "phone": "0470 12 32 68",
+    "locations": [
+      {
+        "city": "Diest (Schaffen)",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Categoriekaarten en bel-/WhatsApp-knoppen zijn duidelijk, met contactformulier en basisgegevens per machine. Desktopkop loopt rechts buiten beeld; productoverzicht bevat onafgewerkte tekst zoals “Lijstitem #3”.",
+    "sources": [
+      {
+        "url": "https://verhuur.center/contact/",
+        "label": "Officiële contact- en vestigingsgegevens"
+      },
+      {
+        "url": "https://verhuur.center/graaf-grondwerken/",
+        "label": "Officieel verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 3,
+      "products": 3,
+      "enquiry": 4
+    },
+    "evidence": "Contact: 0470 12 32 68. Productpagina noemt Minigraver 1.1 Ton en Kniklader 1.7 Ton; levering vanuit Schaffen, afhaling in Diest. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/verhuur-center-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "dima-verhuur",
+    "name": "Dima Verhuur",
+    "website": "https://dimaverhuur.be",
+    "phone": "0496 23 14 89",
+    "locations": [
+      {
+        "city": "Oud-Heverlee (Haasrode)",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Directe machinekaarten, uitgebreide specificaties, meerdere huurprijzen en waarborg. Mobiele inhoud stapelt leesbaar; reservatiekalender en offertepad zichtbaar. Lichtgroene koppen hebben beperkt contrast op wit.",
+    "sources": [
+      {
+        "url": "https://dimaverhuur.be/",
+        "label": "Officieel verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 4
+    },
+    "evidence": "Homepage vermeldt Keiberg 53, 3053 Haasrode en 0496 23 14 89; verhuur Leguan 190/225 spinhoogtewerkers en Magni ES1012 schaarlift. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/dima-verhuur-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "lvc-verhuur",
+    "name": "LVC Verhuur",
+    "website": "https://lvcverhuur.be",
+    "phone": "0469 40 81 07",
+    "locations": [
+      {
+        "city": "Holsbeek",
+        "province": "Vlaams-Brabant",
+        "role": "Magazijn"
+      },
+      {
+        "city": "Lubbeek (Binkom)",
+        "province": "Vlaams-Brabant",
+        "role": "Maatschappelijke zetel; geen bevestigd afhaalpunt"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Heldere oranje contactknoppen en leesbare mobiele opmaak. Verhuurpagina biedt categoriekeuze en huur-/leveringsuitleg; in de bekeken weergave bleven concrete machinekaarten en het aangekondigde contactformulier beperkt zichtbaar.",
+    "sources": [
+      {
+        "url": "https://lvcverhuur.be/",
+        "label": "Officieel verhuuraanbod"
+      },
+      {
+        "url": "https://lvcverhuur.be/contact/",
+        "label": "Officiële contact- en vestigingsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 3,
+      "products": 3,
+      "enquiry": 3
+    },
+    "evidence": "Homepage bevestigt verhuur minigravers en knikladers. Contact: magazijn Horebeekstraat 4, 3220 Holsbeek; maatschappelijke zetel Tiensesteenweg 73, 3211 Binkom (Lubbeek); 0469 40 81 07. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/lvc-verhuur-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "tvh-equipment",
+    "name": "TVH Equipment",
+    "website": "https://www.tvhequipment.com",
+    "phone": "+32 52 30 77 30",
+    "locations": [
+      {
+        "city": "Londerzeel",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Kranen",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Uitgebreide categorienavigatie, technische vergelijkingstabel, PDF-links en aanvraag per machine. Mobiel vereist de brede specificatietabel horizontaal scrollen; vestigingscontact staat apart en duidelijk.",
+    "sources": [
+      {
+        "url": "https://www.tvhequipment.com/nl/meta/locaties/overzicht/londerzeel/",
+        "label": "Officiële contact- en vestigingsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Vestiging Weversstraat 38, 1840 Londerzeel; vestigingstel +32 52 30 77 30 (pagina noemt apart verhuur +32 3 544 14 04). Verhuurgamma: hoogwerkers, minirupshijskranen, verreikers en heftrucks. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/tvh-equipment-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "rob-verhuur",
+    "name": "ROB Verhuur / ROB Rent",
+    "website": "https://www.robverhuur.be",
+    "phone": "02 223 43 07",
+    "locations": [
+      {
+        "city": "Londerzeel",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Kranen",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Veel machinecategorieën en gerichte filters voor bereik, capaciteit en ondergrond; offerte- en filiaalcontact duidelijk. Mobiele tekst is lang en uitgevuld met grote woordspaties; cookievenster vraagt eerst aandacht.",
+    "sources": [
+      {
+        "url": "https://www.robverhuur.be/",
+        "label": "Officieel verhuuraanbod"
+      },
+      {
+        "url": "https://www.robverhuur.be/nl/contact",
+        "label": "Officiële contact- en vestigingsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "ROB Rent Brussel-Antwerpen: Autostrade A12 17, Londerzeel; 02 223 43 07. Homepage: verhuur hoogwerkers, schaarliften, verreikers, heftrucks en categorie minikraan. Eén groepsvermelding. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/rob-verhuur-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "sarens",
+    "name": "Sarens",
+    "website": "https://www.sarens.com",
+    "phone": "+32 52 31 84 10",
+    "locations": [
+      {
+        "city": "Meise (Wolvertem)",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Kranen"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Sterke kraanfotografie en verzorgde mobiele herindeling met broodkruimels. Kraanoverzicht geeft typen en toepassingen, maar geen directe huurprijzen; Belgische vestigingen en contactformulier zijn vindbaar.",
+    "sources": [
+      {
+        "url": "https://www.sarens.com/",
+        "label": "Officieel verhuuraanbod"
+      },
+      {
+        "url": "https://www.sarens.com/contact/belgium.htm",
+        "label": "Officiële contact- en vestigingsgegevens"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 3,
+      "enquiry": 4
+    },
+    "evidence": "Contact België: SARENS BRUSSELS, Autoweg 8, 1861 Wolvertem; +32 52 31 84 10. Homepage beschrijft kraanverhuur en mobiele telescoopkranen, mobiele torenkranen, autolaadkranen en rupskranen. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/sarens-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "huurland",
+    "name": "Huurland",
+    "website": "https://www.huurland.be",
+    "phone": "016 18 61 44",
+    "locations": [
+      {
+        "city": "Lubbeek",
+        "province": "Vlaams-Brabant"
+      },
+      {
+        "city": "Boortmeerbeek",
+        "province": "Vlaams-Brabant"
+      },
+      {
+        "city": "Asse (Zellik)",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke categoriebeelden en mobiele producttegels. Minigraver-detail bevat prijzen, waarborg, afmetingen, instructievideo’s, documenten en transportberekening; filiaalformulieren zijn zichtbaar.",
+    "sources": [
+      {
+        "url": "https://www.huurland.be/nl/filialen/1229/leuven",
+        "label": "Officiële contact- en vestigingsgegevens"
+      },
+      {
+        "url": "https://www.huurland.be/nl/filialen/1223/mechelen",
+        "label": "Officiële contact- en vestigingsgegevens"
+      },
+      {
+        "url": "https://www.huurland.be/nl/filialen/1222/zellik",
+        "label": "Officiële contact- en vestigingsgegevens"
+      },
+      {
+        "url": "https://www.huurland.be/nl/huren/grondverzet",
+        "label": "Officieel verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 4
+    },
+    "evidence": "Filiaal Leuven feitelijk Ambachtenstraat 3, 3210 Lubbeek, 016 18 61 44; Mechelen feitelijk Leuvensesteenweg 224, 3190 Boortmeerbeek; Zellik Doornveld 80, 1731 Zellik. Catalogus: minigraafmachines, graafmachines, knikladers; verhuurnavigatie hoogwerkers, verreikers en heftrucks. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/huurland-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  },
+  {
+    "id": "boels",
+    "name": "Boels Rental",
+    "website": "https://www.boels.com",
+    "phone": "016 29 50 85",
+    "locations": [
+      {
+        "city": "Leuven (Heverlee)",
+        "province": "Vlaams-Brabant"
+      }
+    ],
+    "types": [
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Moderne catalogus met zoeken, filters en vergelijken; productdetail bevat veel technische specificaties. Land-, cookie- en klantgroepkeuze voegen stappen toe, vooral mobiel; bekeken hoogwerker vermeldt prijs op aanvraag.",
+    "sources": [
+      {
+        "url": "https://www.boels.com/nl-be/branches/vlaams-brabant/leuven-heverlee",
+        "label": "Officiële contact- en vestigingsgegevens"
+      },
+      {
+        "url": "https://www.boels.com/nl-be/huren/hoogwerkers/c/ak94cgsr",
+        "label": "Officieel verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Officiële filiaalpagina: Neringenweg 54, Leuven 3001; +32 (0)16-295085. Officiële categoriepagina bevestigt verhuur hoogwerkers. Andere categorieën/vestigingen niet in deze deelverificatie opgenomen. Visuele websitebeoordeling 2026-11-19: desktop 1440×1000 en mobiel 390×844 bekeken; screenshots en inhoud onder evidence/Vlaams-Brabant/boels-*. Geen formulieren verzonden; uitsluitend publieke websitepresentatie beoordeeld."
+  }
+]

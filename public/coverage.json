@@ -1,0 +1,13 @@
+{
+  "reviewDate": "2026-11-19",
+  "companies": 60,
+  "rated": 60,
+  "locations": 72,
+  "provinces": {
+    "Antwerpen": 12,
+    "Limburg": 15,
+    "Oost-Vlaanderen": 11,
+    "West-Vlaanderen": 12,
+    "Vlaams-Brabant": 12
+  }
+}

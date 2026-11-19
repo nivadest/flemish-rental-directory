@@ -1,0 +1,441 @@
+[
+  {
+    "id": "rentalworks",
+    "name": "RentalWorks",
+    "website": "https://rentalworks.be/",
+    "phone": "0456 56 69 95",
+    "locations": [
+      {
+        "city": "Zandhoven",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Hoogwerkers",
+      "Verreikers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Heldere categoriekaarten, zoekveld en vaste mobiele contactbalk; minigravers met gewichtsklassen en tarieven per huurperiode. Contactgegevens duidelijk, maar reviewaantallen verschillen tussen bekeken pagina’s.",
+    "sources": [
+      {
+        "url": "https://rentalworks.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Boutersemdreef 30A, 2240 Zandhoven en telefoon op homepage; verhuur van minigravers, hoogtewerkers en verreikers expliciet vermeld. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/rentalworks-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "ncm",
+    "name": "NCM",
+    "website": "https://n-c-m.be/",
+    "phone": "015 24 73 92",
+    "locations": [
+      {
+        "city": "Booischot",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Contrasterende vormgeving en goed herschikte mobiele knoppen; duidelijke huurcategorieën en graafmachines per gewicht. Contact via telefoon en afdelingsmail; de grote cookiedialoog vraagt eerst aandacht.",
+    "sources": [
+      {
+        "url": "https://n-c-m.be/contact/",
+        "label": "Officiële contact- of verhuurpagina"
+      },
+      {
+        "url": "https://n-c-m.be/te-huur/",
+        "label": "Officiële contact- of verhuurpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 3
+    },
+    "evidence": "Contact: Westmeerbeeksteenweg 47, 2221 Booischot. Verhuurpagina benoemt graafmachines, knikladers, hoogtewerkers, schaarliften, heftrucks en verreikers. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/ncm-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "sam-rent",
+    "name": "Sam Rent",
+    "website": "https://samrent.be/",
+    "phone": "+32 3 789 38 75",
+    "locations": [
+      {
+        "city": "Malle",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Overzichtelijke categoriebeelden, zoek- en prijsfilters en tarieven per huurperiode; contactformulier zichtbaar. Op mobiel valt de lange hoofdtitel rechts deels weg en verschijnt horizontale scroll.",
+    "sources": [
+      {
+        "url": "https://samrent.be/contact/",
+        "label": "Officiële contact- of verhuurpagina"
+      },
+      {
+        "url": "https://samrent.be/verhuur/",
+        "label": "Officiële contact- of verhuurpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contactpagina via browser: Ambachtsstraat 20, 2390 Malle en telefoon. Verhuurcategorieën: Minigravers, Knikmops, Heftrucks en Hoogwerkers. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/sam-rent-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "fm-bouwmachines",
+    "name": "FM Bouwmachines",
+    "website": "https://fmbouwmachines.be/",
+    "phone": "+32 14 86 66 02",
+    "locations": [
+      {
+        "city": "Eindhout",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Rustige opmaak met goed gestapelde mobiele rubrieken en duidelijke offerteknop/contactformulier. Huurpagina verwijst vooral naar een PDF-verhuurgids; weinig direct vergelijkbare machine-informatie op de bekeken webpagina.",
+    "sources": [
+      {
+        "url": "https://fmbouwmachines.be/contact/",
+        "label": "Officiële contact- of verhuurpagina"
+      },
+      {
+        "url": "https://fmbouwmachines.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 4,
+      "navigation": 3,
+      "products": 3,
+      "enquiry": 4
+    },
+    "evidence": "Contact: Steenweg op Meerhout 42, 2430 Eindhout en telefoon. Homepage bevestigt huur op korte/lange termijn van graafmachines en minigravers. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/fm-bouwmachines-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "molse-bouwmachines",
+    "name": "Molse Bouwmachines",
+    "website": "https://molsebouwmachines.be/",
+    "phone": "014 311 000",
+    "locations": [
+      {
+        "city": "Mol",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Herkenbare categorieën en zoekfunctie; graafmachineoverzicht met gewichten, vanafprijzen, huurvoorwaarden en keuzeadvies. Mobiel nemen de hoge kop en grote openingsafbeelding veel ruimte in; contactformulier en verhuurmail zichtbaar.",
+    "sources": [
+      {
+        "url": "https://molsebouwmachines.be/contact/",
+        "label": "Officiële contact- of verhuurpagina"
+      },
+      {
+        "url": "https://www.molsebouwmachines.be/",
+        "label": "Officiële contact- of verhuurpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 4
+    },
+    "evidence": "Verhuur-afhaaladres Lichtstraat 2, 2400 Mol. Homepage toont verhuurcategorieën graafmachines, heftrucks, hoogtewerkers, knikladers-wielladers en verreikers. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/molse-bouwmachines-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "elboka",
+    "name": "Elboka",
+    "website": "https://www.elboka.be/",
+    "phone": "014 85 11 54",
+    "locations": [
+      {
+        "city": "Kasterlee",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Leesbare mobiele indeling met zoekveld en direct telefoon/e-mail; machinekaarten noemen gewicht, vermogen en afmetingen. Contactformulier met bijlageveld zichtbaar; tarieven ontbreken in het bekeken machineoverzicht.",
+    "sources": [
+      {
+        "url": "https://www.elboka.be/contact",
+        "label": "Officiële contact- of verhuurpagina"
+      },
+      {
+        "url": "https://www.elboka.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Retiesebaan 171, 2460 Kasterlee en telefoon op contactpagina. Homepage: verhuur graafmachines met of zonder ervaren machinist, Takeuchi en Liebherr. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/elboka-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "wim-verhuur",
+    "name": "Wim Verhuur",
+    "website": "https://www.wimverhuur.be/",
+    "phone": "015 63 63 63",
+    "locations": [
+      {
+        "city": "Sint-Katelijne-Waver",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Duidelijke zoekfunctie, machinecategorieën, catalogus en transportinformatie; mobiele kop en knoppen blijven leesbaar. Contactformulier aanwezig; doelgroepkeuze en cookievenster vormen samen een extra eerste stap.",
+    "sources": [
+      {
+        "url": "https://www.wimverhuur.be/nl/contact",
+        "label": "Officiële contact- of verhuurpagina"
+      },
+      {
+        "url": "https://www.wimverhuur.be/nl/producten/grondverzetmachines/graafmachines",
+        "label": "Officiële contact- of verhuurpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Contactpagina browser: afhaaladres Fortsesteenweg 44, 2860 Sint-Katelijne-Waver en telefoon. Officiële graafmachinecategorie toont minigravers, bandenkranen en rupsgraafmachines. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/wim-verhuur-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "keuleers-lifttrucks",
+    "name": "Keuleers Lifttrucks",
+    "website": "https://www.keuleers-lifttrucks.be/",
+    "phone": "+32 3 541 64 19",
+    "locations": [
+      {
+        "city": "Antwerpen",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Heftrucks"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Sterke fotografie en duidelijke machinegroepen met capaciteitsbereiken; contactformulier heeft onderwerpkeuze. Mobiele openingsfoto neemt vrijwel het hele scherm in en de vaste logokop overlapt tekst bij scrollen; bekeken aanbod blijft vooral op groepsniveau.",
+    "sources": [
+      {
+        "url": "https://www.keuleers-lifttrucks.be/nl/contact",
+        "label": "Officiële contact- of verhuurpagina"
+      },
+      {
+        "url": "https://www.keuleers-lifttrucks.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 3,
+      "enquiry": 4
+    },
+    "evidence": "Contact: Noorderlaan 141 (ingang via Malagastraat), 2030 Antwerpen. Homepage bevestigt verhuur heftrucks en port equipment. Alleen officieel bevestigde vestiging opgenomen. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/keuleers-lifttrucks-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "anthony-cranes",
+    "name": "Anthony Cranes",
+    "website": "https://www.anthonycranes.be/",
+    "phone": "+32 3 828 64 38",
+    "locations": [
+      {
+        "city": "Berchem",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Kranen"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Kranen zijn per type bereikbaar met technische fiche en concrete mastinformatie; projectgerichte contactroute zichtbaar. Mobiele kop is hoog, titel deels afgesneden en Franse cookietekst verschijnt op de Nederlandse homepage.",
+    "sources": [
+      {
+        "url": "https://www.anthonycranes.be/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://anthonycranes.be/fr/contact/",
+        "label": "Officiële contact- of verhuurpagina"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 3,
+      "navigation": 4,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Homepage: Wij verhuren machinisten met kranen. Contact via browser op Franse versie: Uitbreidingstraat 584, B-2600 Berchem en kantoortelefoon. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/anthony-cranes-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "riba-rent",
+    "name": "Riba Rent",
+    "website": "https://www.ribarent.be/",
+    "phone": "+32 (0)3 313 81 40",
+    "locations": [
+      {
+        "city": "Brecht",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Heftrucks",
+      "Verreikers",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Consistente geel-zwarte opmaak met leesbare mobiele inhoud, zoekveld en offertemandje. Heldere categorie-indeling en contactformulier; bekeken heftruck-/verreikerpagina biedt vooral algemene uitleg, geen directe prijsvergelijking.",
+    "sources": [
+      {
+        "url": "https://www.ribarent.be/",
+        "label": "Officiële website en verhuuraanbod"
+      },
+      {
+        "url": "https://www.ribarent.be/verhuur",
+        "label": "Officiële contact- of verhuurpagina"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 3,
+      "enquiry": 4
+    },
+    "evidence": "Homepage: Industrielaan 6, 2960 Brecht en telefoon. Browser verhuurpagina: Heftrucks & Verreikers en Hoogtewerkers & Schaarliften. Asse buiten provincie niet opgenomen. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/riba-rent-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "bestrent",
+    "name": "BestRent",
+    "website": "https://bestrent.com/",
+    "phone": "+32 15 25 15 00",
+    "locations": [
+      {
+        "city": "Heist-op-den-Berg",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Heftrucks",
+      "Hoogwerkers"
+    ],
+    "rating": 4,
+    "reviewDate": "2026-11-19",
+    "reason": "Heldere zoek- en categorie-ingangen, mobiele navigatie en btw-schakelaar. DX19-pagina toont dag-/weektarieven, afmetingen, toebehoren en FAQ; contactformulier zichtbaar. Enkele grijze tekstblokken hebben beperkt contrast.",
+    "sources": [
+      {
+        "url": "https://bestrent.com/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 4,
+      "mobile": 4,
+      "navigation": 4,
+      "products": 5,
+      "enquiry": 4
+    },
+    "evidence": "Volledige homepage via browser: Industriepark B12, 2220 Heist-op-den-Berg en telefoon. Concrete huurproducten: DX19/DX50 minigravers, elektrische heftruck 3000 kg, knikhoogwerker en schaarliften. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/bestrent-*. Formulieren uitsluitend bekeken, niet verzonden."
+  },
+  {
+    "id": "de-ryck-verhuur",
+    "name": "De Ryck Verhuur",
+    "website": "https://www.deryckverhuur.be/",
+    "phone": "+32 (0)15 24 15 04",
+    "locations": [
+      {
+        "city": "Heist-op-den-Berg",
+        "province": "Antwerpen"
+      }
+    ],
+    "types": [
+      "Graafmachines",
+      "Wielladers",
+      "Hoogwerkers"
+    ],
+    "rating": 3,
+    "reviewDate": "2026-11-19",
+    "reason": "Uitgebreide huurcategorieën met dag-, week- en vierwekentarieven en offerteknoppen; contactformulier zichtbaar. Mobiel blijven grote lege beeldvlakken en wordt de lange hoofdtitel rechts afgesneden; de menustructuur is omvangrijk.",
+    "sources": [
+      {
+        "url": "https://www.deryckverhuur.be/",
+        "label": "Officiële website en verhuuraanbod"
+      }
+    ],
+    "assessment": {
+      "design": 3,
+      "mobile": 2,
+      "navigation": 3,
+      "products": 4,
+      "enquiry": 4
+    },
+    "evidence": "Homepage via browser: Industriepark 47a Zone A, 2220 Heist-o/d-Berg en telefoon. Verhuurvloot expliciet hoogwerkers, graafmachines en knikladers. Visuele review 2026-11-19: desktop 1440×1000 en mobiel 390×844; screenshots en paginawaarnemingen in evidence/Antwerpen/de-ryck-verhuur-*. Formulieren uitsluitend bekeken, niet verzonden."
+  }
+]
